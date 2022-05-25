@@ -1,4 +1,4 @@
-module github.com/free5gc/logger_util
+module github.com/omec-project/logger_util
 
 go 1.14
 
